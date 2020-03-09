@@ -1,4 +1,4 @@
-# CISC3130=ASssignment2
+# CISC3130=Asssignment2
 READ:
 The program reads in as many file paths as user would like to process, adds each file path into a queue in order to read in from each file in order of first entered. The program pulls out each song name file by file and checks to see if its in the correct format, if not the program reformats the song name for easier sorting. After the program has finished reading in from all the fils then it uses a customer comparing function to sort all the songs added from each file into one big file. The program then starts to play all the songs from the beginning, removing each song as its played and adding it to a recently played playlist. 
 
